@@ -1,7 +1,7 @@
 {
   "name": "vice-city-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A syntax theme based on GTA: Vice City's color palette.",
   "keywords": [
     "syntax",
